@@ -4,8 +4,8 @@ import java.text.DecimalFormat;
 public class Detalle extends javax.swing.JFrame {
 
     /**
-     * Creates new form VentanaDescripción
-     */
+     * @author Abigail Acosta
+     **/
     public Detalle(){
         initComponents();
         this.setLocationRelativeTo(null);
